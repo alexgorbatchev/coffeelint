@@ -25,8 +25,8 @@
     "glob": ">=3.1.9"
   },
   "devDependencies": {
-    "browserify": "~2.26.0",
-    "coffeeify": "~0.5.1",
+    "browserify": "~3.x",
+    "coffeeify": "~0.6.0",
     "coffee-script": "1.6.x",
     "vows": ">=0.6.0",
     "underscore": ">=1.4.4"
